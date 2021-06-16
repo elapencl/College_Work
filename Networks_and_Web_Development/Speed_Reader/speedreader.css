@@ -1,0 +1,68 @@
+#display {
+  width: 80%;
+  height: 100px;
+  margin: 0 auto;
+  font-size: 36pt;
+  font-family: monospace;
+  line-height: 100px;
+  border: 2px solid #8EBEBE;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+  text-align: center;
+  overflow: hidden;
+}
+
+#validators {
+  position: fixed;
+  left: 5px;
+  bottom: 5px;
+}
+
+#validators img {
+  width: 70px;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #EAF6F6;
+  font-family: Garamond, sans-serif;
+  font-size: 12pt;
+}
+
+p {
+  width: 100%;
+  padding: 2px;
+  font-weight: bold;
+  text-align: left;
+  border-bottom: 1px solid #8EBEBE;
+}
+
+fieldset {
+  vertical-align: top;
+  border: none;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+#reader-controls,
+#input {
+  text-align: center;
+}
+
+textarea {
+  border: 1px solid gray;
+  background-color: #FFFFFF;
+}
+
+button {
+  background-color: white;
+  border: 1px solid gray;
+}
+
+button:disabled {
+  background-color: lightgray;
+}
+
