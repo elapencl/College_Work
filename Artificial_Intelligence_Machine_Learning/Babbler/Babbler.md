@@ -41,7 +41,7 @@ Files
 Put these files in the same directory as your program.
 
 short.txt  download, a very small piece of text for testing
-moby.txt  download, the entire text of Moby Dick (via Project Gutenberg (Links to an external site.) https://www.gutenberg.org/)
+moby.txt  download, the entire text of Moby Dick (via Project Gutenberg (Links to an external site.) https://www.gutenberg.org/) You will have to download the book and put it in a .txt file!
 After your program is working, try it on your own texts. If you're sleep-deprived enough and read the output aloud, this will be hilarious.
 
 Hints
