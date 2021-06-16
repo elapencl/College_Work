@@ -1,0 +1,208 @@
+body {
+    background-image: url(https://watzek.lclark.edu/cs/293spr2021/ex2/background.png);
+}
+
+#validate {
+    float: right;
+    position: relative;
+    top: -50px;
+}
+
+#repeat1 {
+    background-image: url(https://watzek.lclark.edu/cs/293spr2021/ex2/bannerbg.png);
+    background-repeat: repeat-x;
+    text-align: center;
+    position: relative;
+    bottom: -50px;
+    width: 100%;
+    margin-bottom: auto;
+
+}
+
+
+
+#repeat {
+
+    background-image: url("http://watzek.lclark.edu/cs/293spr2021/ex2/rancidbannerbg.png");
+    background-repeat: repeat-x;
+    background-size: 50px 100px 100px 100px;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: "Georgia", "Times New Roman", serif;
+    text-shadow: 3px 3px #999999;   
+    text-align: center;
+    font-weight: bold;
+    font-size: 24pt;
+}
+
+
+
+#overview {
+    padding: 0px;
+}
+
+
+}
+
+body {
+    
+    width: 250px;
+    font-size: 10pt;
+    font-family: "Arial", "Helvetica", sans-serif;
+    margin: none;
+}
+
+#content {
+
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid gray;
+    border-radius: 20px;
+    background-color: #A2B964;
+    overflow: hidden;
+    align-self: center;
+}
+
+#outter {
+    font-size: 10pt;
+    float: right;
+    width: 250px;
+    background-color: #A2B964;
+    font-family: "Arial", "Helvetica" sans-serif;
+    padding-bottom: 10pt;
+}
+
+dd, li {
+    line-height: 10pt;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+span {
+    margin-right:500px;
+}
+
+dl {
+    
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+ul {
+    list-style-type: none;
+    list-style-image: none;
+    padding: 0;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+
+#inner {
+width: 550px;
+background-color: #EEEEEE;
+
+}
+
+
+.column {
+    float: left;
+    width: 47%;
+    padding: 5px;
+}
+
+
+
+#rate33 {
+    background-image: url(http://watzek.lclark.edu/cs/293spr2021/ex2/rbg.png);
+    height: 83px;
+    font-size: 48pt;
+    font-weight: bold;
+    color: red;
+    margin-top: auto;
+    margin-bottom: auto;
+    bottom: -100px;
+}
+
+#rate33 img {
+    float: left;
+    padding-right: 5px;
+
+}
+
+#rate{
+    background-image: url(http://watzek.lclark.edu/cs/293spr2021/ex2/rbg.png);
+    height: 83px;
+    font-size: 48pt;
+    font-weight: bold;
+    color: red;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 5px;
+}
+
+#rate img {
+    float: left;
+    padding-right: 5px;
+
+}
+
+.review {
+    font-size: 10pt;
+    font-family: "Georgia", "Times New Roman", serif;
+    font-weight: bold;
+    background-color: #FFFFFF;
+    border: 2px #CCCCCC;
+    padding-right: 5px;
+    border-radius: 10px;
+    padding: 8px;
+    margin: 8px;
+    overflow: auto;
+}
+
+.review img {
+    float: left;
+    padding-right: 5px;
+}
+
+
+.name {
+    padding-top: 5px;
+    padding-bottom: 20pt;
+    padding-left: 10px;
+    font-style: italic;
+}
+
+.no-italics {
+    font-style: normal;   
+}
+
+.name img {
+    float: left;
+    padding-right: 5px;
+}
+
+#page {
+    clear: both;
+    padding-right: 5px;
+    text-align: center;
+}
+
+#space {
+    clear:both;
+}
+
+#boxes {
+    text-align: right;
+}
+
+#footer {
+    clear: both;
+    text-align: center;
+}
