@@ -1,0 +1,43 @@
+h2 {
+	text-align:center;
+	color:#A4A400;
+	background-color:#F0F0F0;
+	font-family: "Lucida Sans Unicode", "Helvetica", "Arial", sans-serif;
+	text-decoration: underline;
+	font-size: 22 pt;
+}
+
+h3 {
+	text-align:left;
+	color:#A4A400;
+	background-color:#F0F0F0;
+	font-family: "Lucida Sans Unicode", "Helvetica", "Arial", sans-serif;
+	text-decoration: underline;
+	font-size: 18 pt;
+}
+
+ol  {
+	color:#404040;
+	font-size: 11 pt;
+	font-family: "Georgia", "Garamond", serif;
+}
+
+ul  {
+	color:#404040;
+	font-size: 11 pt;
+	font-family: "Georgia", "Garamond", serif;
+}
+
+blockquote  {
+	color:#404040;
+	font-size: 11 pt;
+	font-family: "Georgia", "Garamond", serif;
+	background-color: #FFFFA8;
+}
+
+
+
+
+
+
+
